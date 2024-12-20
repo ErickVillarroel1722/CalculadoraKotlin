@@ -3,13 +3,13 @@ Este aplicativo funciona como una calculadora de funciones trigonometricas.
 
 ## 🛠️ Integrantes: 
 
-- Mateo Garzon
-- Yuverly Verdezoto
-- Erick Villarroel
-- Francisco Caero
-- Eduardo Caza
-- Luis Guaygua
-- Erick Caiza
+- Mateo Garzon/APK
+- Yuverly Verdezoto/APK-Vizualizacion
+- Erick Villarroel/APK-Vizualizacion-Readme
+- Francisco Caero/APK-Vizualizacion
+- Eduardo Caza/APK-Vizualizacion
+- Luis Guaygua/APK-Vizualizacion
+- Erick Caiza/Logica y funcionalidades
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -23,14 +23,17 @@ Este aplicativo funciona como una calculadora de funciones trigonometricas.
  - Podra resolver funciones basicas trigonometricas aplicando las formulas conocidas. 
  - Se utilizó una nueva disposicion basada en las funciones trigonometricas para que se pueda calcular los resultados.
 
-
 ## 📸 Capturas de Pantalla
 
-### Aplicacion intalada:
-<img src="https://github.com/user-attachments/assets/1e0300cf-375b-4955-b0a5-f49f94480ad2" width="300" />
+### Aplicación instalada:
+<img src=![{64B65336-7FDF-4408-8557-B47AADA05800}](https://github.com/user-attachments/assets/507991ea-1efa-4afa-bdd2-6a3f10f0987f)
+ width="300" />
 
 ### Pantalla de la calculadora:
-<img src="https://github.com/user-attachments/assets/6f8f612d-88b8-4aae-934b-5c31dfdc7b71" width="300" />
+<img src=![{8A8D9EF0-46FF-4725-8C16-38700441DB99}](https://github.com/user-attachments/assets/be27bd70-2574-4c3d-91b4-c00834284069)
+ width="300" />
 
-### Pantalla extra
-<img src="https://github.com/user-attachments/assets/61f7d46b-72b3-4e8f-b364-4113fbf19523" width="300" />
+### Pantalla extra:
+<img src=![{7959AC67-5D11-440B-98AE-93C7AC070E7E}](https://github.com/user-attachments/assets/56dee3a9-000d-42d1-8657-632b4a44b019)
+ width="300" />
+
