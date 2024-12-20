@@ -1,38 +1,36 @@
-# Calculadora Trigonometrica en Kotlin 
-Este aplicativo funciona como una calculadora de funciones trigonometricas.
+# Calculadora Trigonométrica en Kotlin 
+
+Este aplicativo funciona como una calculadora de funciones trigonométricas.
 
 ## 🛠️ Integrantes: 
 
-- Mateo Garzon/APK
-- Yuverly Verdezoto/APK-Vizualizacion
-- Erick Villarroel/APK-Vizualizacion-Readme
-- Francisco Caero/APK-Vizualizacion
-- Eduardo Caza/APK-Vizualizacion
-- Luis Guaygua/APK-Vizualizacion
-- Erick Caiza/Logica y funcionalidades
+- Mateo Garzón/APK  
+- Yuverly Verdezoto/APK-Visualización  
+- Erick Villarroel/APK-Visualización-Readme  
+- Francisco Caero/APK-Visualización  
+- Eduardo Caza/APK-Visualización  
+- Luis Guaygua/APK-Visualización  
+- Erick Caiza/Lógica y funcionalidades  
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Kotlin**: Lenguaje de programacion usado para el desarrollo del aplicativo movil.
-- **XML**: Diseño de la interfaz grafica.
-- **Android Studio**: Entorno de desarrollo de la Aplicacion.  
+- **Kotlin**: Lenguaje de programación usado para el desarrollo del aplicativo móvil.  
+- **XML**: Diseño de la interfaz gráfica.  
+- **Android Studio**: Entorno de desarrollo de la aplicación.  
 
 ## 📱 Funcionalidades
 
 ### Calculadora:
- - Podra resolver funciones basicas trigonometricas aplicando las formulas conocidas. 
- - Se utilizó una nueva disposicion basada en las funciones trigonometricas para que se pueda calcular los resultados.
+ - Podrá resolver funciones básicas trigonométricas aplicando las fórmulas conocidas.  
+ - Se utilizó una nueva disposición basada en las funciones trigonométricas para calcular los resultados.  
 
 ## 📸 Capturas de Pantalla
 
 ### Aplicación instalada:
-![WhatsApp Image 2024-12-20 at 15 54 31](https://github.com/user-attachments/assets/04cb06a7-9286-4a4c-bbcc-710a56da0ef4)
-
+<img src="https://github.com/user-attachments/assets/04cb06a7-9286-4a4c-bbcc-710a56da0ef4" alt="Aplicación instalada" width="300" />
 
 ### Pantalla de la calculadora:
-![WhatsApp Image 2024-12-20 at 15 54 44](https://github.com/user-attachments/assets/9db66457-f948-465d-ab51-8421b4ffed4a)
-
+<img src="https://github.com/user-attachments/assets/9db66457-f948-465d-ab51-8421b4ffed4a" alt="Pantalla de la calculadora" width="300" />
 
 ### Pantalla extra:
-![WhatsApp Image 2024-12-20 at 15 54 52](https://github.com/user-attachments/assets/c3786023-5f29-4a6a-af43-fa5232bbf955)
-
+<img src="https://github.com/user-attachments/assets/c3786023-5f29-4a6a-af43-fa5232bbf955" alt="Pantalla extra" width="300" />
